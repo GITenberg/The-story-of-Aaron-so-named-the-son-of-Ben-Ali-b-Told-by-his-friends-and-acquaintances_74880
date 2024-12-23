@@ -9,6 +9,9 @@ contributor:
     gutenberg_agent_id: '24852'
     url: http://www.gutenberg.org/2009/agents/24852
     wikipedia: https://en.wikipedia.org/wiki/Oliver_Herford
+covers:
+- cover_type: archival
+  image_path: 74880-h/images/cover.jpg
 creator:
   author:
     agent_name: Harris, Joel Chandler
@@ -18,6 +21,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/868
     wikipedia: https://en.wikipedia.org/wiki/Joel_Chandler_Harris
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/74880#The-story-of-Aaron-so-named-the-son-of-Ben-Ali-b-Told-by-his-friends-and-acquaintances
 gutenberg_issued: '2024-12-11'
 gutenberg_type: Text
 identifiers:
